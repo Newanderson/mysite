@@ -1,0 +1,116 @@
+
+
+.my-pro{
+    margin-top: 105px;
+    display: flex;
+    justify-content: center;
+}
+
+.my{
+    color: #5079F2;
+}
+.secao-cards{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    gap: 45px;
+    padding-top: 45px;
+    flex-grow: 1;
+    width: 80%;
+    padding-bottom: 50px;
+    
+    
+    
+}
+
+.cards{
+    width: 350px;
+    height: 360px;
+    border: 2px solid #5079F2;
+    border-radius: 8px;
+    transition: 0.3s;
+    
+}
+
+
+
+
+.cards img{
+    width: 350px;
+ 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    
+}
+
+.cards:hover{
+    rotate: 1deg;
+    scale: 1.01;
+    cursor: pointer;
+
+}
+
+.box{
+    width: 350px;
+    padding: 15px;
+}
+
+.grafo{
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+.cards-icons{
+    padding-top: 15px;
+    font-size: 20px;
+    display: flex;
+    justify-content:flex-start;
+    gap: 10px;
+   
+}
+
+.cards-icons :hover{
+    color: #191716;
+    transition: 400ms;
+    font-size:19px;
+ }
+
+
+
+ @media  (max-width:500px){
+    
+        
+     }
+
+
+
+  @media  (min-width:768px) and (max-width:992px){
+    .secao-cards{
+        height: 100vh;
+    }
+    
+    .cards{
+        
+        gap: 30px;
+        align-items: center;
+        justify-content:center;
+        width: 300px;   
+    }
+
+    .cards img{
+        width: 300px;
+
+    }
+
+    .grafo {
+        width: 280px;
+
+    }
+        
+       
+     
+     
+  }
+
+  
