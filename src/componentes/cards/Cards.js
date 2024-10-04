@@ -53,8 +53,8 @@ const Cards = () =>{
              <div className="cards-icons">
              
              
-                <a href="/"> <FaGithub /></a>
-                <a href="/"><FaLink /></a>
+                <a href="https://github.com/Newanderson/mysite"> <FaGithub /></a>
+                <a href="https://newsouza.netlify.app/"><FaLink /></a>
                
 
               

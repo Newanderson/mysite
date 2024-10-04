@@ -80,9 +80,9 @@ const Home = () =>{
                 className="home-right">
 
                <motion.div 
-                initial={{ y:100, opacity:0}}
-                whileInView={{ y:0, opacity:1 }}
-                transition={{delay:0.3, y:{type:"spring", stiffness:60},opacity:{duration:1}, ease:"eseaIn", duration:1}}
+                initial={{ x:100, opacity:0}}
+                whileInView={{ x:0, opacity:1 }}
+                transition={{delay:0.3, x:{type:"spring", stiffness:60},opacity:{duration:1}, ease:"eseaIn", duration:1}}
                 className="home-left">
 
                 <img className="profile" src={Profile} alt="perfil"/>
@@ -97,4 +97,3 @@ const Home = () =>{
 
 export default Home;
 
-// <span className="raio">⚡⚡⚡</span>

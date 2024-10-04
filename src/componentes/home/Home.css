@@ -105,9 +105,12 @@ a{
 
 
 
-@media  (max-width:768px){
+@media  (max-width:700px){
 
   .home{
+
+      margin-top: -1px;
+      padding-top: 35px;
       width: 88%;
       display: block;
       
@@ -128,7 +131,7 @@ a{
    .profile{
       display: block;
       width: 160px;
-      margin-top: 5px;
+      
       margin-left:-2px;
    }
    .home-right-pc{
@@ -144,9 +147,8 @@ a{
       display: none;
    }
 
-   .welcome{
-      
-      display: none;
+   .welcome{   
+       display: none;
    }
    
       
@@ -159,6 +161,7 @@ a{
 @media  (min-width:768px) and (max-width:992px){
 
    .home{
+  
      margin-left: 45px;
    }
 
