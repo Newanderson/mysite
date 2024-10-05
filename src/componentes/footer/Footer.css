@@ -117,6 +117,7 @@
         display: flex;
         flex-direction: column;
         
+        
     }
 
     .skill{
@@ -143,7 +144,7 @@
         padding-top: -7px;
         font-size: 25px;
         gap: 10px;
-        padding-bottom: 25px;
+        margin-bottom: 35px;
         justify-content: left;
         
     }
@@ -157,6 +158,7 @@
      .contat{
         font-size:25px;
         padding-top: 35px;
+        
         
     }
   }
