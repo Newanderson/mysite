@@ -55,7 +55,7 @@ const Home = () =>{
                           whileInView={{ x:0, opacity:1 }}
                           transition={{delay:0.3, x:{type:"spring", stiffness:23},opacity:{duration:1}, ease:"eseaIn", duration:1}}
                         className="hello2"> Newanderson</motion.h2>
-                        <p className="dev"> Desenvolvedor Web Front-End </p>
+                        <p className="dev"> Developer web Front-End </p>
 
                         <p className="lorem"> Me destaco por combinação de inteligência e foco , somados a uma intuição apurada e criativa . Atualmente estudante de Front End !</p>
                         </motion.div>    

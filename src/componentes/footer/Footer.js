@@ -2,15 +2,20 @@ import "./Footer.css"
 import React from "react";
 import {motion} from "framer-motion"
 
+//icons
+import { FaGithub } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
+import { AiFillInstagram } from "react-icons/ai";
+
 const Footer = () =>{
     return(
-
+    <section className="secao">
        <section className="skill">
              <motion.p 
               initial={{ x:-100, opacity:0}}
               whileInView={{ x:0, opacity:1 }}
               transition={{delay:0.3, x:{type:"spring", stiffness:60},opacity:{duration:1}, ease:"eseaIn", duration:1}}
-             className="dev-p">Developer</motion.p>
+             className="dev-p">Developer web</motion.p>
              
             <motion.h1
             initial={{ x:-100, opacity:0}}
@@ -53,8 +58,36 @@ const Footer = () =>{
               <  img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="/"/>
          
             </motion.section>
+
+            
         
        </section>
+            <section className="call">
+                    
+                    <motion.div
+                     initial={{ x:-100, opacity:0}}
+                     whileInView={{ x:0, opacity:1 }}
+                     transition={{delay:0.3, x:{type:"spring", stiffness:60},opacity:{duration:1}, ease:"eseaIn", duration:1}} className="contat">
+                        <h1>GET IN <span className="touch">TOUCH</span> </h1>
+                    </motion.div> 
+
+                    <motion.div 
+                    initial={{ y:-100, opacity:0}}
+                    whileInView={{ y:0, opacity:1 }}
+                    transition={{delay:0.3, y:{type:"spring", stiffness:60},opacity:{duration:1}, ease:"eseaIn", duration:1}}
+                    className="icon-mail">
+                    <a href="https://github.com/Newanderson"><FaGithub /></a>
+
+                    <a href="https://www.linkedin.com/in/new-souza-7583a6297/"><FaLinkedin /></a>
+                            
+                    <a href="https://www.instagram.com/newsouz/"><AiFillInstagram /></a>
+
+                    </motion.div>
+                    
+
+                </section>
+       </section>
+       
 
 
     )

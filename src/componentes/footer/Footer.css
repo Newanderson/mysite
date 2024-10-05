@@ -1,14 +1,20 @@
-.skill{
-    margin-top: 95px;
-    height: 400px;
-    font-size:45px ;
+.secao{
+    width: 79%;
+    display: flex;
+    justify-content: space-between;
     margin: auto;
-    width:79%;
+    height: 250px;
+    
+}
+
+.skill{
+    width: 500px;
+    font-size:45px ;
 }
 
 .dev-p{
-    margin-top: 25px;
-    margin-bottom: -23px;
+    
+    margin-bottom: -19px;
     font-size: 20px;
     font-weight: 600;
 }
@@ -18,41 +24,139 @@
 
 }
 
-/*.skil{
-    font-size: 25px;
-    border-bottom: 2px solid #5079F2;
-}*/
-
 .icons-skill{
     display: flex;
     gap: 10px;
-    padding-top: 20px;
+    padding-top: 5px;
     width: 45px;
+    
 }
 
+.contat{
+    font-size:45px ;
+}
 
-@media  (max-width:768px){
+.touch{
+    color: #5079F2;
+}
+
+.icon-mail{
+    display: flex;
+    padding-top: -7px;
+    font-size: 45px;
+    gap: 10px;
+    justify-content: right;
+    
+}
+
+.icon-mail :hover{
+    color: #191716;
+    transition: 400ms;
+    font-size:44px;
+ }
+
+
+
+
+@media  (min-width:768px) and (max-width:992px){
+    .secao{
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        
+    }
 
     .skill{
-        margin-top: 55px;
-        height: 400px;
+        margin-top: 25px;
+        height: 300px;
         font-size:25px ;
         width:90%;
     }
     .dev-p{
         font-weight: 600;
         margin-top: 10px;
-        margin-bottom: -13px;
+        margin-bottom: -8px;
         font-size: 15px;
     }
     .icons-skill{
         display: flex;
         gap: 10px;
-        padding-top: 10px;
+        padding-top: 5px;
         width: 25px;
     }
     
-     
+    .icon-mail{
+       
+        padding-top: -7px;
+        font-size: 25px;
+        gap: 10px;
+        padding-bottom: 45px;
+        justify-content: left;
+        
+    }
+    
+    .icon-mail :hover{
+        color: #191716;
+        transition: 400ms;
+        font-size:44px;
+     }
+
+     .contat{
+        font-size:25px ;
+        padding-top: 35px;
+        
+    }
      
   }
  
+
+
+  @media  (max-width:500px){
+    .secao{
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .skill{
+        margin-top: 5px;
+        height: 300px;
+        font-size:25px ;
+        width:90%;
+    }
+    .dev-p{
+        font-weight: 600;
+        margin-top: 10px;
+        margin-bottom: -8px;
+        font-size: 15px;
+    }
+    .icons-skill{
+        display: flex;
+        gap: 10px;
+        padding-top: 5px;
+        width: 25px;
+    }
+    
+    .icon-mail{
+       
+        padding-top: -7px;
+        font-size: 25px;
+        gap: 10px;
+        padding-bottom: 25px;
+        justify-content: left;
+        
+    }
+    
+    .icon-mail :hover{
+        color: #191716;
+        transition: 400ms;
+        font-size:44px;
+     }
+
+     .contat{
+        font-size:25px ;
+        padding-top: 35px;
+        
+    }
+  }
