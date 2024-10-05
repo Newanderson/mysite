@@ -18,7 +18,8 @@
 .home{
    width: 80%;
    margin: auto;
-   justify-content: center;
+   display: flex;
+   justify-content: space-between;
    display: flex;
    margin-top: 50px;
    padding-top:25px ;
@@ -82,7 +83,7 @@ a{
 
 
 .home-left{
-   margin-right: 50px;
+   
    padding-top:25px ;
    
    display: flex;
@@ -105,12 +106,12 @@ a{
 
 
 
-@media  (max-width:700px){
+@media  (max-width:768px){
 
   .home{
 
       margin-top: -1px;
-      padding-top: 35px;
+      padding-top: 50px;
       width: 88%;
       display: block;
       
