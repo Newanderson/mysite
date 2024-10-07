@@ -28,7 +28,7 @@
 
 .text{
    color:#FBFEFB ;
-   width: 500px;
+   width: 700px;
 }
 
 .dev{
@@ -152,6 +152,14 @@ a{
        display: none;
    }
    
+   .icons{
+      width: 24px;
+      gap: 5px;
+   }
+
+   .lorem{
+      font-size: 15px;
+   }
       
      
    

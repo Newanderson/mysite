@@ -26,7 +26,7 @@
 
 .cards{
     width: 350px;
-    height: 360px;
+    height: 410px;
     border: 2px solid #5079F2;
     border-radius: 8px;
     transition: 0.3s;
@@ -52,17 +52,20 @@
 }
 
 .box{
-    width: 350px;
+   
     padding: 15px;
 }
 
 .grafo{
+    width: 300px;
     padding-top: 8px;
-    padding-bottom: 6px;
+    padding-bottom: 15px;
+    
+    padding-left: 10px;
 }
 
 .cards-icons{
-    padding-top: 15px;
+    padding-top: 25px;
     font-size: 20px;
     display: flex;
     justify-content:flex-start;
@@ -82,13 +85,18 @@
     .secao-cards{
         gap: 15px;
     }
+
+    .lorem{
+        width: 320px;
+    }
     
     .cards{
         
         gap: 5px;
         align-items: center;
         justify-content:center;
-        width: 300px;   
+        width: 300px;
+        height: 410px;   
     }
 
     .cards img{
@@ -97,7 +105,7 @@
     }
 
     .grafo {
-        width: 280px;
+        width: 260px;
 
     }
         

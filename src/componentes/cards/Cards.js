@@ -47,7 +47,7 @@ const Cards = () =>{
 
             <div style={{width:"350px"}} className="box">
              <h1 className="title"> My portfolio</h1>
-             <p className="grafo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa.  </p>
+             <p className="grafo">Desenvolvido com muitas criatividade e planejamento , meu portifólio foi criado como um desafio partículas de aperfeiçoar minhas habilidades e novos recursos para uma aplicação responsiva .  </p>
 
 
              <div className="cards-icons">
@@ -79,7 +79,7 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">Projeto ativos</h1>
-             <p className="grafo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa.  </p>
+             <p className="grafo">Projeto ativos como forma de gratificação pela  parceria que durou anos, que me proporcionou o crescimento pessoal e profissional , projeto ReactJs e Tailwind Css .  </p>
 
 
              <div className="cards-icons">
@@ -99,7 +99,7 @@ const Cards = () =>{
 
     <motion.article
     
-            //DASBOARD
+            //DAHSBOARD
 
             initial={{ y:-100, opacity:0}}
             whileInView={{ y:0, opacity:1 }}
@@ -111,8 +111,7 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">Dashboard</h1>
-             <p className="grafo">Lorem
-                 ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa.  </p>
+             <p className="grafo">Painel de controle desenvolvido com Reactjs , otimizar de forma fácil e fluida tudo que usuário necessita em plataforma de vendas , pensada unicamente na experiência dos usuários.  </p>
 
 
              <div className="cards-icons">
@@ -144,14 +143,15 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">Projeto Chamados</h1>
-             <p className="grafo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa.  </p>
+             <p className="grafo">Possue cadastro de novo usuário, cadastro de novos clientes e abertura de chamados com espaços para adicionar informações para cada cliente ,Firebase para 
+            Autenticação e armazenamento de dados .  </p>
 
 
              <div className="cards-icons">
              
              
-                <a href="https://cnpj-calls-project.netlify.app/"> <FaGithub /></a>
-                <a href="https://github.com/Newanderson/projeto-chamadas"><FaLink /></a>
+                <a href= "https://github.com/Newanderson/projeto-chamadas"><FaGithub /></a>
+                <a href="https://cnpj-calls-project.netlify.app/"><FaLink /></a>
                
 
               
@@ -176,7 +176,9 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">Lista de tarefas</h1>
-             <p className="grafo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa.  </p>
+             <p className="grafo"> As tarefas que podem ser editadas e excluídas,
+                 mudar o status para concluída ,Firebase e seu ecossistema para 
+            Autenticação , cadastro de usuário e  armazenamento de dados .  </p>
 
 
              <div className="cards-icons">
@@ -208,7 +210,8 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">Projeto login</h1>
-             <p className="grafo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa.  </p>
+             <p className="grafo">Projeto Login desenvolvido apenas em HTML e CSS , desafiou minhas habilidades para uma aplicação mais raiz , procurando de forma desenvolver algo fluido e 100% responsiva .
+             </p>
 
 
              <div className="cards-icons">

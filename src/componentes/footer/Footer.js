@@ -6,6 +6,7 @@ import {motion} from "framer-motion"
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
+import { FaWhatsapp } from "react-icons/fa";
 
 const Footer = () =>{
     return(
@@ -81,6 +82,7 @@ const Footer = () =>{
                     <a href="https://www.linkedin.com/in/new-souza-7583a6297/"><FaLinkedin /></a>
                             
                     <a href="https://www.instagram.com/newsouz/"><AiFillInstagram /></a>
+                    <a href="https://w.app/ufRblB"><FaWhatsapp /></a>
 
                     </motion.div>
                     
