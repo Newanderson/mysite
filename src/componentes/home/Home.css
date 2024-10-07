@@ -121,7 +121,7 @@ a{
    }
 
    .hello2{
-      font-size: 45px;
+      font-size: 40px;
      
            
         }
@@ -159,6 +159,8 @@ a{
 
    .lorem{
       font-size: 15px;
+      margin-top: -14px;
+      
    }
       
      
