@@ -78,7 +78,7 @@ const Cards = () =>{
             <img width={350} src={Ativos} alt="NEW" />
 
         <div style={{width:"350px"}} className="box">
-             <h1 className="title">Projeto ativos</h1>
+             <h1 className="title">Ativos digitais</h1>
              <p className="grafo">Projeto ativos como forma de gratificação pela  parceria que durou anos, que me proporcionou o crescimento pessoal e profissional , projeto ReactJs e Tailwind Css .  </p>
 
 
@@ -110,7 +110,7 @@ const Cards = () =>{
             <img width={350} src={Dashboard} alt="Dashboard" />
 
         <div style={{width:"350px"}} className="box">
-             <h1 className="title">ION. vendas</h1>
+             <h1 className="title">ION. vendas </h1>
              <p className="grafo">Painel de controle desenvolvido com Reactjs , otimizar de forma fácil e fluida tudo que usuário necessita em plataforma de vendas , pensada unicamente na experiência dos usuários.  </p>
 
 
