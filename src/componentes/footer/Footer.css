@@ -137,16 +137,16 @@
     }
     .icons-skill{
         display: flex;
-        gap: 10px;
+        gap: 5px;
         padding-top: 5px;
-        width: 22px;
+        width: 25px;
     }
     
     .icon-mail{
        
         padding-top: -7px;
         font-size: 25px;
-        gap: 10px;
+        gap: 5px;
         margin-bottom: 35px;
         justify-content: left;
         
