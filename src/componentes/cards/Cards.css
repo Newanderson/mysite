@@ -53,7 +53,7 @@
 
 .box{
    
-    padding: 15px;
+    padding: 17px;
 }
 
 .grafo{
@@ -61,7 +61,7 @@
     padding-top: 8px;
     padding-bottom: 15px;
     
-    padding-left: 10px;
+   
 }
 
 .cards-icons{
@@ -96,7 +96,7 @@
         align-items: center;
         justify-content:center;
         width: 300px;
-        height: 410px;   
+        height: 400px;   
     }
 
     .cards img{
@@ -106,6 +106,7 @@
 
     .grafo {
         width: 260px;
+        font-size: 15px;
 
     }
         
