@@ -58,7 +58,7 @@ const Home = () =>{
                         className="hello2"> Newanderson</motion.h2>
                         <p className="dev"> Developer web Front-End </p>
 
-                        <p className="lorem"> Com anos na área tecnológica, atuei de forma profissional e autônoma em agências de marketing como desenvolver de aplicações WordPress entre outras plataformas, Atualmente estudante de Front End com projetos e desafios realizados com meus conhecimentos, continuamente buscando o aperfeiçoamento das minhas habilidades.</p>
+                        <p className="lorem"> Com anos na área tecnológica, atuei de forma profissional e autônoma em agências de marketing como desenvolver de aplicações WordPress entre outras plataformas, Atualmente estudante de Front End com projetos e desafios realizados com meus conhecimentos,  buscando continuamente o aperfeiçoamento das minhas habilidades.</p>
                         </motion.div>    
 
                     <motion.div 
