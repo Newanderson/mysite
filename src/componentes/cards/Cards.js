@@ -79,7 +79,8 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">Ativos digitais</h1>
-             <p className="grafo">Projeto ativos como forma de gratificação pela  parceria que durou anos, que me proporcionou o crescimento pessoal e profissional , projeto ReactJs e Tailwind Css .  </p>
+             <p className="grafo">Landing Page construída com a
+             identidade visual da empresa ,  projeto desenvolvido com ReactJs e seu ecossistema Tailwind Css e  JavaScript .  </p>
 
 
              <div className="cards-icons">
@@ -111,7 +112,7 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">ION. vendas </h1>
-             <p className="grafo">Painel de controle desenvolvido com Reactjs , otimizar de forma fácil e fluida tudo que usuário necessita em plataforma de vendas , pensada unicamente na experiência dos usuários.  </p>
+             <p className="grafo">Esse painel de controle desenvolvido com Reactjs , otimiza de forma fácil e fluida tudo que usuário necessita em uma  plataforma de vendas , buscando  experiência única do usuários.  </p>
 
 
              <div className="cards-icons">
@@ -143,8 +144,7 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">Projeto Chamados</h1>
-             <p className="grafo">Possue cadastro de novo usuário, cadastro de novos clientes e abertura de chamados com espaços para adicionar informações para cada cliente ,Firebase para 
-            Autenticação e armazenamento de dados .  </p>
+             <p className="grafo">Possue cadastro de novo usuário, cadastro de novos clientes e abertura de chamados, edição de perfil e observação. ReactJs, Firebase Autenticação e armazenamento de dados. </p>
 
 
              <div className="cards-icons">
@@ -176,9 +176,7 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">Lista de tarefas</h1>
-             <p className="grafo"> As tarefas que podem ser editadas e excluídas,
-                 mudar o status para concluída ,Firebase e seu ecossistema para 
-            Autenticação , cadastro de usuário e  armazenamento de dados .  </p>
+             <p className="grafo"> Aplicação adiciona tarefas que podem ser editadas, excluídas e  concluída, usado Firebase e seu ecossistema para Autenticação, cadastro de usuário e armazenamento de dados .  </p>
 
 
              <div className="cards-icons">
@@ -210,7 +208,7 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">Projeto login</h1>
-             <p className="grafo">Projeto Login desenvolvido apenas em HTML e CSS , desafiou minhas habilidades para uma aplicação mais raiz , procurando de forma desenvolver algo fluido e 100% responsiva .
+             <p className="grafo">Projeto Login desenvolvido apenas em HTML e CSS, desafiou minhas habilidades para uma aplicação mais raiz, procurando de forma desenvolver algo fluido e 100% responsiva.
              </p>
 
 
