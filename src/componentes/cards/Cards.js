@@ -47,7 +47,7 @@ const Cards = () =>{
 
             <div style={{width:"350px"}} className="box">
              <h1 className="title"> My portfolio</h1>
-             <p className="grafo">Desenvolvido com muitas criatividade e planejamento , meu portifólio foi criado como um desafio partículas de aperfeiçoar minhas habilidades e novos recursos para uma aplicação responsiva .  </p>
+             <p className="grafo">Desenvolvido com muitas criatividade e planejamento, meu portifólio foi criado como um desafio partículas de aperfeiçoar minhas habilidades e novos recursos para uma aplicação responsiva.  </p>
 
 
              <div className="cards-icons">
@@ -80,7 +80,7 @@ const Cards = () =>{
         <div style={{width:"350px"}} className="box">
              <h1 className="title">Ativos digitais</h1>
              <p className="grafo">Landing Page construída com a
-             identidade visual da empresa ,  projeto desenvolvido com ReactJs e seu ecossistema Tailwind Css e  JavaScript .  </p>
+             identidade visual da empresa,  projeto desenvolvido com ReactJs e seu ecossistema Tailwind Css e JavaScript .  </p>
 
 
              <div className="cards-icons">
@@ -112,7 +112,7 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">ION. vendas </h1>
-             <p className="grafo">Esse painel de controle desenvolvido com Reactjs , otimiza de forma fácil e fluida tudo que usuário necessita em uma  plataforma de vendas , buscando  experiência única do usuários.  </p>
+             <p className="grafo">Esse painel de controle desenvolvido com Reactjs , otimiza de forma fácil e fluida tudo que usuário necessita em uma  plataforma de vendas, buscando experiência única do usuários.  </p>
 
 
              <div className="cards-icons">
@@ -144,7 +144,7 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">Projeto Chamados</h1>
-             <p className="grafo">Possue cadastro de novo usuário, cadastro de novos clientes e abertura de chamados, edição de perfil e observação. ReactJs, Firebase Autenticação e armazenamento de dados. </p>
+             <p className="grafo">Possue cadastro de novo usuário, cadastro de novos clientes e abertura de chamados, edição de perfil e observações. ReactJS e Firebase, autenticação e armazenamento de dados. </p>
 
 
              <div className="cards-icons">
@@ -208,7 +208,7 @@ const Cards = () =>{
 
         <div style={{width:"350px"}} className="box">
              <h1 className="title">Projeto login</h1>
-             <p className="grafo">Projeto Login desenvolvido apenas em HTML e CSS, desafiou minhas habilidades para uma aplicação mais raiz, procurando de forma desenvolver algo fluido e 100% responsiva.
+             <p className="grafo">Projeto Login desenvolvido apenas em HTML e CSS, desafiou minhas habilidades para uma aplicação mais raiz, procurand desenvolver algo fluido e 100% responsiva.
              </p>
 
 
