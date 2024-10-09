@@ -6,7 +6,7 @@ import Profile3 from "../../img/new3.png"
 //icons
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
-import { AiFillInstagram } from "react-icons/ai";
+
 import { motion } from "framer-motion"
 import { FaWhatsapp } from "react-icons/fa";
 

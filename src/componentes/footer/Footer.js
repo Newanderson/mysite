@@ -5,7 +5,7 @@ import {motion} from "framer-motion"
 //icons
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
-import { AiFillInstagram } from "react-icons/ai";
+
 import { FaWhatsapp } from "react-icons/fa";
 
 const Footer = () =>{
