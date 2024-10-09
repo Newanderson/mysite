@@ -70,7 +70,7 @@ const Home = () =>{
                         <div><a href="https://github.com/Newanderson"><FaGithub /></a></div>
                         <div><a href="https://www.linkedin.com/in/new-souza-7583a6297/"><FaLinkedin /></a></div>
                     
-                        <div><a href="https://www.instagram.com/newsouz/"><AiFillInstagram /></a></div>
+                       
                         <div><a href="https://w.app/U6ET5B"><FaWhatsapp /></a></div>
                     </motion.div>
              </div>

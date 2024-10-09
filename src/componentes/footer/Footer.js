@@ -81,7 +81,7 @@ const Footer = () =>{
 
                     <a href="https://www.linkedin.com/in/new-souza-7583a6297/"><FaLinkedin /></a>
                             
-                    <a href="https://www.instagram.com/newsouz/"><AiFillInstagram /></a>
+                
                     <a href="https://w.app/U6ET5B"><FaWhatsapp /></a>
 
                     </motion.div>
