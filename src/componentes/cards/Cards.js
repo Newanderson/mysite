@@ -47,7 +47,7 @@ const Cards = () =>{
 
             <div style={{width:"350px"}} className="box">
              <h1 className="title"> My portfolio</h1>
-             <p className="grafo">Desenvolvido com muitas criatividade e planejamento, meu portifólio foi criado como um desafio particular de aperfeiçoar minhas habilidades e novos recursos para uma aplicação responsiva.  </p>
+             <p className="grafo">Desenvolvido com muitas criatividade e planejamento, meu site foi criado como desafio particular de aperfeiçoar minhas habilidades e novos recursos para uma aplicação responsiva.  </p>
 
 
              <div className="cards-icons">
