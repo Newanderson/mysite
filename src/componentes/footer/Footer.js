@@ -84,7 +84,7 @@ const Footer = () =>{
                     <a href="https://www.linkedin.com/in/new-souza-7583a6297/"><FaLinkedin /></a>
                             
                 
-                    <a href="https://w.app/U6ET5B"><FaWhatsapp /></a>
+                    <a href="https://wa.me/5562982562832"><FaWhatsapp /></a>
 
                     </motion.div>
                     
